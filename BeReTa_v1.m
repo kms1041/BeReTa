@@ -1,5 +1,5 @@
 function BeReTaSolution = BeReTa_v1(model, reg_net, exp_comp, product_rxn)
-% Beneficial Regulator Targeting (BeReTa) algorithm [Minsuk Kim et al, Bioinformatics, Submitted]
+% Beneficial Regulator Targeting (BeReTa) algorithm [Minsuk Kim et al, Bioinformatics, Accepted]
 %
 %INPUTS
 % model             COBRA model structure
